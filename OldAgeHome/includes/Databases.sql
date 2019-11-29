@@ -1,0 +1,1 @@
+create table resident(rno int AUTO_INCREMENT PRIMARY KEY not null ,fname varchar(50) not null, lname varchar(50) not null, gender varchar(50) not null,age int not null);
